@@ -1,0 +1,15 @@
+﻿Projeyi tamamladıktan sonra öncelikle hosting firmasından aldığımız msssql veritabanı bilgilerini database context deki ceonnection string deki alnalara eklememiz gerekli.
+
+P010Store.WebUI proje adına sağ click yapıp açılan menüden publish seçeneğine tıklıyoruz
+
+Açılan pencerede Publish işlemi için gerekli yapılandırma ayarı yapılır
+
+Çıktı alacağımız klasörü seçip folder mendüsünü seçip ok diyerek pencereyi kapatıyoruz
+
+Uygulamayı yayınlamak için ekrandaki publish butonuna basıyoruz
+
+İşlem tamamlandığında seçili klasöre çıktı verilecektir
+
+Aldığımız bu çıktı dosyalarını bir FTP programı veya sunucunun arayüzünü kullanarak sunucumuza yüklememiz gerekir
+
+Ftp işlemi için ücretsiz program olan File Zilla(Client) 

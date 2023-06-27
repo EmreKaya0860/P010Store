@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\P010Store.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\P010Store.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\XiaomiRedmiK40Gaming.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\XiaomiRedmiK40Gaming.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\apple.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\arctis5.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\arctis5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\ipad.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\ipad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\iphone-14-pro-max.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\iphone-14-pro-max.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\kasa1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\kasa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\kasa2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\kasa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\kasa3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\kasa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\lenovodizüstü.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\lenovodizüstü.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\mackbook.png",
+      "PackagePath": "staticwebassets\\Img\\Products\\mackbook.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\msidizüstü.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\msidizüstü.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\razer.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\razer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\samsung-galaxy-s22-5g.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\samsung-galaxy-s22-5g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\steelseries.png",
+      "PackagePath": "staticwebassets\\Img\\Products\\steelseries.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\tablet.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\Products\\tablet2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Products\\tablet2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\apple.jpg",
+      "PackagePath": "staticwebassets\\Img\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\asus.jpg",
+      "PackagePath": "staticwebassets\\Img\\asus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\bilgisayar.png",
+      "PackagePath": "staticwebassets\\Img\\bilgisayar.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\doğa.jpg",
+      "PackagePath": "staticwebassets\\Img\\doğa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\doğa2.jpg",
+      "PackagePath": "staticwebassets\\Img\\doğa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\doğa3.jpg",
+      "PackagePath": "staticwebassets\\Img\\doğa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\doğa4.jpg",
+      "PackagePath": "staticwebassets\\Img\\doğa4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\doğa5.jpg",
+      "PackagePath": "staticwebassets\\Img\\doğa5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\lenovologo.png",
+      "PackagePath": "staticwebassets\\Img\\lenovologo.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\mackbook.png",
+      "PackagePath": "staticwebassets\\Img\\mackbook.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\monster.png",
+      "PackagePath": "staticwebassets\\Img\\monster.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\msilogo.png",
+      "PackagePath": "staticwebassets\\Img\\msilogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\razer.jpg",
+      "PackagePath": "staticwebassets\\Img\\razer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\samsunglogo.png",
+      "PackagePath": "staticwebassets\\Img\\samsunglogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\steelseries.png",
+      "PackagePath": "staticwebassets\\Img\\steelseries.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\tablet.jpg",
+      "PackagePath": "staticwebassets\\Img\\tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\telefon.png",
+      "PackagePath": "staticwebassets\\Img\\telefon.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\Img\\xiaomilogo.png",
+      "PackagePath": "staticwebassets\\Img\\xiaomilogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\401.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\404.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\500.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\charts.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\css\\styles.css",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\index.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\layout-static.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\login.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\password.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\register.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-sb-admin-gh-pages\\tables.html",
+      "PackagePath": "staticwebassets\\startbootstrap-sb-admin-gh-pages\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\startbootstrap-shop-homepage-gh-pages.zip",
+      "PackagePath": "staticwebassets\\startbootstrap-shop-homepage-gh-pages.zip"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\tema\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\tema\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\tema\\css\\styles.css",
+      "PackagePath": "staticwebassets\\tema\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\tema\\index.html",
+      "PackagePath": "staticwebassets\\tema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Desktop\\P010Store\\P010Store.WebUI\\wwwroot\\tema\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\tema\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.P010Store.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.P010Store.WebUI.props",
+      "PackagePath": "build\\P010Store.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.P010Store.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\P010Store.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.P010Store.WebUI.props",
+      "PackagePath": "buildTransitive\\P010Store.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

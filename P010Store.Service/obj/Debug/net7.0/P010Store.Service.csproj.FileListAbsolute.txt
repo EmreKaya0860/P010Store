@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\bin\Debug\net7.0\P010Store.Service.deps.json
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\bin\Debug\net7.0\P010Store.Service.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\bin\Debug\net7.0\P010Store.Service.pdb
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\bin\Debug\net7.0\P010Store.Data.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\bin\Debug\net7.0\P010Store.Entities.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\bin\Debug\net7.0\P010Store.Data.pdb
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\bin\Debug\net7.0\P010Store.Entities.pdb
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.AssemblyInfo.cs
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.csproj.CopyComplete
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\refint\P010Store.Service.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\P010Store.Service.pdb
+C:\Users\Emre\Desktop\P010Store\P010Store.Service\obj\Debug\net7.0\ref\P010Store.Service.dll

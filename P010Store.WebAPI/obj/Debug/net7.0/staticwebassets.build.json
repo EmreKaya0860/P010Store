@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1wNdQbv8BJ09x8suvyDEKulyae9qCvVzmSsF3FhDKvY=",
+  "Source": "P010Store.WebAPI",
+  "BasePath": "_content/P010Store.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

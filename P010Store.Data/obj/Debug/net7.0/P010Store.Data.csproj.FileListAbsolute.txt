@@ -1,0 +1,17 @@
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\bin\Debug\net7.0\P010Store.Data.deps.json
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\bin\Debug\net7.0\P010Store.Data.runtimeconfig.json
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\bin\Debug\net7.0\P010Store.Data.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\bin\Debug\net7.0\P010Store.Data.pdb
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\bin\Debug\net7.0\P010Store.Entities.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\bin\Debug\net7.0\P010Store.Entities.pdb
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.AssemblyInfo.cs
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.csproj.CopyComplete
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\refint\P010Store.Data.dll
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.pdb
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\P010Store.Data.genruntimeconfig.cache
+C:\Users\Emre\Desktop\P010Store\P010Store.Data\obj\Debug\net7.0\ref\P010Store.Data.dll
